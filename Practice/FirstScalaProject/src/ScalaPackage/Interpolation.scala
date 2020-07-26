@@ -1,0 +1,5 @@
+package ScalaPackage
+
+object Interpolation {
+  
+}
